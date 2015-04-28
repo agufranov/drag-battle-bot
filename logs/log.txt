@@ -1,0 +1,445 @@
+[19.06 23:05:25] Daily bonus got!!!
+[19.06 23:05:25] Daily bonus got!!!
+[19.06 23:05:25] Connected
+[19.06 23:05:25] Daily bonus got!!!
+[19.06 23:05:25] Connected
+[19.06 23:05:25] Connected
+[19.06 23:05:25] Work worker: working
+[19.06 23:05:25] Work worker: working
+[19.06 23:05:25] Work worker: working
+[19.06 23:05:26] Casino worker: timeout = -180853
+[19.06 23:05:26] Work worker: waiting for 7198 + 38 seconds
+[19.06 23:05:26] Casino worker: timeout = -180852
+[19.06 23:05:26] Work worker: waiting for 7198 + 65 seconds
+[19.06 23:05:26] Casino worker: timeout = -180857
+[19.06 23:05:26] Work worker: waiting for 7198 + 69 seconds
+[19.06 23:05:26] Casino result: 2 4 2
+[19.06 23:05:26] Casino result: 2 5 1
+[19.06 23:05:26] Casino result: 6 2 1
+[19.06 23:05:26] Casino worker: timeout = 7207
+[19.06 23:05:26] Casino worker: timeout = 7211
+[19.06 23:05:26] Casino worker: timeout = 7211
+[20.06 00:40:39] Connected
+[20.06 00:40:39] Connected
+[20.06 00:40:39] Work worker: waiting for 1485 + 49 seconds
+[20.06 00:40:39] Work worker: waiting for 1485 + 89 seconds
+[20.06 00:40:39] Casino worker: timeout = 1497
+[20.06 00:40:39] Casino worker: timeout = 1495
+[20.06 00:40:42] Connected
+[20.06 00:40:42] Work worker: waiting for 1482 + 74 seconds
+[20.06 00:40:43] Casino worker: timeout = 1492
+[21.06 18:39:50] Connected
+[21.06 18:39:50] Connected
+[21.06 18:39:50] Connected
+[21.06 18:39:50] Work worker: working
+[21.06 18:39:50] Work worker: working
+[21.06 18:39:50] Work worker: working
+[21.06 18:39:50] Casino worker: timeout = -27252
+[21.06 18:39:50] Work worker: waiting for 7200 + 31 seconds
+[21.06 18:39:50] Casino worker: timeout = -27247
+[21.06 18:39:50] Work worker: waiting for 7200 + 16 seconds
+[21.06 18:39:50] Casino worker: timeout = -27252
+[21.06 18:39:50] Work worker: waiting for 7200 + 66 seconds
+[21.06 18:39:50] Casino result: 4 1 5
+[21.06 18:39:50] Casino result: 2 3 2
+[21.06 18:39:50] Casino result: 5 4 6
+[21.06 18:39:50] Casino worker: timeout = 7210
+[21.06 18:39:50] Casino worker: timeout = 7206
+[21.06 18:39:50] Casino worker: timeout = 7206
+[30.06 02:49:31] Daily bonus got!!!
+[30.06 02:49:32] Daily bonus got!!!
+[30.06 02:49:32] Daily bonus got!!!
+[30.06 02:49:32] Connected
+[30.06 02:49:32] Connected
+[30.06 02:49:33] Work worker: working
+[30.06 02:49:33] Work worker: working
+[30.06 02:49:33] Casino worker: timeout = -713376
+[30.06 02:49:33] Work worker: waiting for 7196 + 83 seconds
+[30.06 02:49:33] Casino worker: timeout = -713368
+[30.06 02:49:33] Work worker: waiting for 7196 + 39 seconds
+[30.06 02:49:33] Casino result: 2 1 4
+[30.06 02:49:33] Casino result: 1 1 1
+[30.06 02:49:33] Casino worker: timeout = 7210
+[30.06 02:49:33] Casino worker: timeout = 7207
+[30.06 02:49:34] Connected
+[30.06 02:49:34] Work worker: working
+[30.06 02:49:38] Casino worker: timeout = -713381
+[30.06 02:49:38] Work worker: waiting for 7195 + 119 seconds
+[30.06 02:49:38] Casino result: 2 5 1
+[30.06 02:49:38] Casino worker: timeout = 7204
+[30.06 04:19:25] ProtectionSystemFail
+[30.06 04:19:25] Disconnected
+[30.06 04:19:25] Update worker: finished
+[30.06 04:19:25] ProtectionSystemFail
+[30.06 04:19:25] Disconnected
+[30.06 04:19:25] Update worker: finished
+[30.06 04:19:25] Task queue worker: finished
+[30.06 04:19:25] Task queue worker: finished
+[30.06 04:19:25] Casino worker: finished
+[30.06 04:19:25] Work worker: finished
+[30.06 04:19:25] Work worker: finished
+[30.06 04:19:25] Casino worker: finished
+[30.06 04:19:25] ProtectionSystemFail
+[30.06 04:19:25] Disconnected
+[30.06 04:19:25] Update worker: finished
+[30.06 04:19:25] Task queue worker: finished
+[30.06 04:19:25] Work worker: finished
+[30.06 04:19:25] Casino worker: finished
+[07.07 14:05:53] Daily bonus got!!!
+[07.07 14:05:53] Daily bonus got!!!
+[07.07 14:05:53] Daily bonus got!!!
+[07.07 14:05:55] Connected
+[07.07 14:05:55] Connected
+[07.07 14:05:55] Connected
+[07.07 14:05:55] Work worker: working
+[07.07 14:05:55] Work worker: working
+[07.07 14:05:55] Work worker: working
+[07.07 14:05:56] Casino worker: timeout = -638180
+[07.07 14:05:56] Work worker: waiting for 7200 + 59 seconds
+[07.07 14:05:56] Casino worker: timeout = -638179
+[07.07 14:05:56] Work worker: waiting for 7200 + 85 seconds
+[07.07 14:05:56] Casino worker: timeout = -638178
+[07.07 14:05:56] Work worker: waiting for 7200 + 83 seconds
+[07.07 14:05:56] Casino result: 5 1 2
+[07.07 14:05:56] Casino result: 1 1 2
+[07.07 14:05:56] Casino result: 1 1 1
+[07.07 14:05:57] Casino worker: timeout = 7206
+[07.07 14:05:57] Casino worker: timeout = 7209
+[07.07 14:05:57] Casino worker: timeout = 7204
+[09.07 09:47:31] Daily bonus got!!!
+[09.07 09:47:31] Daily bonus got!!!
+[09.07 09:47:31] Daily bonus got!!!
+[09.07 09:47:32] Connected
+[09.07 09:47:32] Connected
+[09.07 09:47:32] Connected
+[09.07 09:47:33] Work worker: working
+[09.07 09:47:33] Work worker: working
+[09.07 09:47:33] Work worker: working
+[09.07 09:47:33] Casino worker: timeout = -150087
+[09.07 09:47:33] Work worker: waiting for 7198 + 49 seconds
+[09.07 09:47:33] Casino worker: timeout = -150088
+[09.07 09:47:33] Work worker: waiting for 7198 + 30 seconds
+[09.07 09:47:33] Casino result: 1 4 1
+[09.07 09:47:33] Casino result: 1 2 3
+[09.07 09:47:33] Casino worker: timeout = 7208
+[09.07 09:47:33] Casino worker: timeout = -150085
+[09.07 09:47:33] Work worker: waiting for 7198 + 68 seconds
+[09.07 09:47:34] Casino result: 1 1 1
+[09.07 09:47:34] Casino worker: timeout = 7204
+[09.07 09:47:34] Casino worker: timeout = 7208
+[11.07 09:12:43] Daily bonus got!!!
+[11.07 09:12:43] Daily bonus got!!!
+[11.07 09:12:43] Daily bonus got!!!
+[11.07 09:12:44] Connected
+[11.07 09:12:44] Connected
+[11.07 09:12:44] Work worker: working
+[11.07 09:12:44] Work worker: working
+[11.07 09:12:44] Casino worker: timeout = -163501
+[11.07 09:12:44] Work worker: waiting for 7199 + 33 seconds
+[11.07 09:12:44] Casino worker: timeout = -163500
+[11.07 09:12:44] Work worker: waiting for 7199 + 94 seconds
+[11.07 09:12:45] Connected
+[11.07 09:12:45] Work worker: working
+[11.07 09:12:45] Casino result: 1 4 2
+[11.07 09:12:45] Casino result: 4 2 5
+[11.07 09:12:45] Casino worker: timeout = -163500
+[11.07 09:12:45] Work worker: waiting for 7198 + 102 seconds
+[11.07 09:12:45] Casino worker: timeout = 7205
+[11.07 09:12:45] Casino worker: timeout = 7209
+[11.07 09:12:45] Casino result: 3 1 1
+[11.07 09:12:45] Casino worker: timeout = 7206
+[12.07 10:16:44] Daily bonus got!!!
+[12.07 10:16:45] Daily bonus got!!!
+[12.07 10:16:45] Daily bonus got!!!
+[12.07 10:16:45] Connected
+[12.07 10:16:45] Connected
+[12.07 10:16:45] Connected
+[12.07 10:16:45] Work worker: working
+[12.07 10:16:47] Work worker: working
+[12.07 10:16:47] Work worker: working
+[12.07 10:16:47] Casino worker: timeout = -83040
+[12.07 10:16:47] Work worker: waiting for 7199 + 31 seconds
+[12.07 10:16:48] Casino worker: timeout = -83037
+[12.07 10:16:48] Work worker: waiting for 7198 + 79 seconds
+[12.07 10:16:48] Casino worker: timeout = -83037
+[12.07 10:16:48] Work worker: waiting for 7198 + 108 seconds
+[12.07 10:16:47] Casino result: 2 1 2
+[12.07 10:16:48] Casino worker: timeout = 7205
+[12.07 10:16:48] Casino result: 1 1 1
+[12.07 10:16:48] Casino result: 1 1 1
+[12.07 10:16:48] Casino worker: timeout = 7209
+[12.07 10:16:48] Casino worker: timeout = 7209
+[17.07 09:12:43] Daily bonus got!!!
+[17.07 09:12:43] Daily bonus got!!!
+[17.07 09:12:43] Daily bonus got!!!
+[17.07 09:12:45] Connected
+[17.07 09:12:45] Connected
+[17.07 09:12:45] Connected
+[17.07 09:12:46] Work worker: working
+[17.07 09:12:46] Work worker: working
+[17.07 09:12:46] Work worker: working
+[17.07 09:12:46] Casino worker: timeout = -420949
+[17.07 09:12:46] Work worker: waiting for 7199 + 20 seconds
+[17.07 09:12:46] Casino worker: timeout = -420952
+[17.07 09:12:46] Work worker: waiting for 7199 + 31 seconds
+[17.07 09:12:46] Casino result: 3 1 1
+[17.07 09:12:46] Casino result: 6 2 1
+[17.07 09:12:47] Casino worker: timeout = 7204
+[17.07 09:12:47] Casino worker: timeout = 7210
+[26.07 09:16:50] Daily bonus got!!!
+[26.07 09:16:50] Daily bonus got!!!
+[26.07 09:16:50] Daily bonus got!!!
+[26.07 09:16:50] Connected
+[26.07 09:16:50] Connected
+[26.07 09:16:50] Connected
+[26.07 09:16:50] Work worker: working
+[26.07 09:16:50] Work worker: working
+[26.07 09:16:51] Work worker: working
+[26.07 09:16:51] Casino worker: timeout = -1198795
+[26.07 09:16:51] Work worker: waiting for 7198 + 119 seconds
+[26.07 09:16:51] Casino worker: timeout = -770640
+[26.07 09:16:51] Work worker: waiting for 7198 + 77 seconds
+[26.07 09:16:51] Casino worker: timeout = -770634
+[26.07 09:16:51] Work worker: waiting for 7198 + 97 seconds
+[26.07 09:16:51] Casino result: 3 4 1
+[26.07 09:16:51] Casino result: 2 3 2
+[26.07 09:16:51] Casino result: 4 2 1
+[26.07 09:16:51] Casino worker: timeout = 7209
+[26.07 09:16:51] Casino worker: timeout = 7205
+[26.07 09:16:51] Casino worker: timeout = 7203
+[29.07 09:02:11] Daily bonus got!!!
+[29.07 09:02:12] Daily bonus got!!!
+[29.07 09:02:13] Connected
+[29.07 09:02:14] Work worker: working
+[29.07 09:02:14] Casino worker: timeout = -251123
+[29.07 09:02:14] Work worker: waiting for 7206 + 27 seconds
+[31.07 09:16:28] Daily bonus got!!!
+[31.07 09:16:28] Daily bonus got!!!
+[31.07 09:16:29] Connected
+[31.07 09:16:29] Connected
+[31.07 09:16:29] Daily bonus got!!!
+[31.07 09:16:29] Work worker: working
+[31.07 09:16:29] Work worker: working
+[31.07 09:16:29] Connected
+[31.07 09:16:29] Casino worker: timeout = -166439
+[31.07 09:16:29] Work worker: waiting for 7199 + 112 seconds
+[31.07 09:16:29] Work worker: working
+[31.07 09:16:29] Casino worker: timeout = -424776
+[31.07 09:16:29] Work worker: waiting for 7199 + 45 seconds
+[31.07 09:16:29] Casino result: 5 2 1
+[31.07 09:16:29] Casino result: 2 3 6
+[31.07 09:16:29] Casino worker: timeout = -424768
+[31.07 09:16:29] Work worker: waiting for 7200 + 80 seconds
+[31.07 09:16:29] Casino worker: timeout = 7211
+[31.07 09:16:29] Casino worker: timeout = 7204
+[31.07 09:16:30] Casino result: 1 5 1
+[31.07 09:16:30] Casino worker: timeout = 7210
+[01.08 09:03:50] Daily bonus got!!!
+[01.08 09:03:50] Daily bonus got!!!
+[01.08 09:03:51] Daily bonus got!!!
+[01.08 09:03:51] Connected
+[01.08 09:03:51] Connected
+[01.08 09:03:51] Connected
+[01.08 09:03:51] Work worker: working
+[01.08 09:03:51] Work worker: working
+[01.08 09:03:51] Casino worker: timeout = -78436
+[01.08 09:03:51] Casino worker: timeout = -78436
+[01.08 09:03:51] Casino worker: timeout = -78438
+[01.08 09:03:51] Work worker: waiting for 7199 + 27 seconds
+[01.08 09:03:51] Work worker: waiting for 7199 + 27 seconds
+[01.08 09:03:51] Work worker: waiting for 7199 + 93 seconds
+[01.08 09:03:52] Casino result: 4 1 1
+[01.08 09:03:52] Casino result: 3 2 2
+[01.08 09:03:52] Casino result: 3 2 1
+[01.08 09:03:52] Casino worker: timeout = 7208
+[01.08 09:03:52] Casino worker: timeout = 7209
+[01.08 09:03:52] Casino worker: timeout = 7205
+[02.08 09:19:44] Daily bonus got!!!
+[02.08 09:19:44] Daily bonus got!!!
+[02.08 09:19:44] Connected
+[02.08 09:19:44] Connected
+[02.08 09:19:44] Connected
+[02.08 09:19:45] Work worker: working
+[02.08 09:19:45] Work worker: working
+[02.08 09:19:45] Work worker: working
+[02.08 09:19:45] Casino worker: timeout = -80142
+[02.08 09:19:45] Work worker: waiting for 7198 + 88 seconds
+[02.08 09:19:45] Casino worker: timeout = -80143
+[02.08 09:19:45] Work worker: waiting for 7198 + 97 seconds
+[02.08 09:19:45] Casino worker: timeout = -80145
+[02.08 09:19:45] Work worker: waiting for 7198 + 15 seconds
+[02.08 09:19:45] Casino result: 1 2 1
+[02.08 09:19:45] Casino result: 1 2 3
+[02.08 09:19:45] Casino result: 3 1 1
+[02.08 09:19:45] Casino worker: timeout = 7209
+[02.08 09:19:45] Casino worker: timeout = 7204
+[02.08 09:19:46] Casino worker: timeout = 7210
+[05.08 09:09:59] Daily bonus got!!!
+[05.08 09:09:59] Daily bonus got!!!
+[05.08 09:09:59] Daily bonus got!!!
+[05.08 09:09:59] Connected
+[05.08 09:09:59] Connected
+[05.08 09:09:59] Connected
+[05.08 09:10:00] Work worker: working
+[05.08 09:10:00] Work worker: working
+[05.08 09:10:00] Work worker: working
+[05.08 09:10:01] Casino worker: timeout = -251408
+[05.08 09:10:01] Work worker: waiting for 7199 + 48 seconds
+[05.08 09:10:01] Casino worker: timeout = -251413
+[05.08 09:10:01] Work worker: waiting for 7199 + 112 seconds
+[05.08 09:10:01] Casino worker: timeout = -251407
+[05.08 09:10:01] Work worker: waiting for 7199 + 106 seconds
+[05.08 09:10:01] Casino result: 2 2 1
+[05.08 09:10:01] Casino result: 1 1 2
+[05.08 09:10:01] Casino result: 2 6 4
+[05.08 09:10:02] Casino worker: timeout = 7210
+[05.08 09:10:02] Casino worker: timeout = 7203
+[05.08 09:10:02] Casino worker: timeout = 7210
+[06.08 09:23:46] Daily bonus got!!!
+[06.08 09:23:46] Daily bonus got!!!
+[06.08 09:23:47] Connected
+[06.08 09:23:47] Daily bonus got!!!
+[06.08 09:23:47] Connected
+[06.08 09:23:47] Work worker: working
+[06.08 09:23:47] Work worker: working
+[06.08 09:23:47] Connected
+[06.08 09:23:47] Work worker: working
+[06.08 09:23:47] Casino worker: timeout = -80017
+[06.08 09:23:47] Work worker: waiting for 7200 + 105 seconds
+[06.08 09:23:47] Casino worker: timeout = -80019
+[06.08 09:23:47] Work worker: waiting for 7200 + 52 seconds
+[06.08 09:23:47] Casino worker: timeout = -80018
+[06.08 09:23:47] Work worker: waiting for 7200 + 92 seconds
+[06.08 09:23:47] Casino result: 2 3 5
+[06.08 09:23:47] Casino result: 2 2 2
+[06.08 09:23:47] Casino result: 1 3 1
+[06.08 09:23:48] Casino worker: timeout = 7209
+[06.08 09:23:48] Casino worker: timeout = 7206
+[06.08 09:23:48] Casino worker: timeout = 7210
+[07.08 09:32:50] Daily bonus got!!!
+[07.08 09:32:50] Daily bonus got!!!
+[07.08 09:32:50] Daily bonus got!!!
+[07.08 09:32:50] Connected
+[07.08 09:32:50] Connected
+[07.08 09:32:50] Connected
+[07.08 09:32:51] Work worker: working
+[07.08 09:32:50] Work worker: working
+[07.08 09:32:51] Work worker: working
+[07.08 09:32:51] Casino worker: timeout = -79738
+[07.08 09:32:51] Work worker: waiting for 7199 + 111 seconds
+[07.08 09:32:51] Casino worker: timeout = -79739
+[07.08 09:32:51] Work worker: waiting for 7199 + 97 seconds
+[07.08 09:32:51] Casino worker: timeout = -79737
+[07.08 09:32:51] Work worker: waiting for 7200 + 50 seconds
+[07.08 09:32:51] Casino result: 4 1 5
+[07.08 09:32:51] Casino result: 1 1 2
+[07.08 09:32:51] Casino result: 4 3 3
+[07.08 09:32:51] Casino worker: timeout = 7204
+[07.08 09:32:51] Casino worker: timeout = 7207
+[07.08 09:32:51] Casino worker: timeout = 7209
+[11.08 16:29:24] Daily bonus got!!!
+[11.08 16:29:24] Connected
+[11.08 16:29:24] Work worker: working
+[11.08 16:29:25] Daily bonus got!!!
+[11.08 16:29:25] Connected
+[11.08 16:29:25] Casino worker: timeout = -363382
+[11.08 16:29:25] Work worker: waiting for 7195 + 38 seconds
+[11.08 16:29:26] Work worker: working
+[11.08 16:29:26] Casino result: 5 1 4
+[11.08 16:29:27] Casino worker: timeout = 7210
+[11.08 16:29:27] Daily bonus got!!!
+[11.08 16:29:27] Casino worker: timeout = -363386
+[11.08 16:29:27] Work worker: waiting for 7195 + 81 seconds
+[11.08 16:29:27] Connected
+[11.08 16:29:27] Work worker: working
+[11.08 16:29:28] Casino worker: timeout = -363387
+[11.08 16:29:28] Work worker: waiting for 7195 + 20 seconds
+[11.08 16:29:28] Casino result: 2 3 1
+[11.08 16:29:28] Casino worker: timeout = 7204
+[11.08 16:29:30] Casino result: 1 2 1
+[11.08 16:29:31] Casino worker: timeout = 7211
+[12.08 15:27:10] Daily bonus got!!!
+[12.08 15:27:10] Daily bonus got!!!
+[12.08 15:27:11] Daily bonus got!!!
+[12.08 15:27:12] Connected
+[12.08 15:27:12] Connected
+[12.08 15:27:12] Work worker: working
+[12.08 15:27:13] Work worker: working
+[12.08 15:27:13] Work worker: working
+[12.08 15:27:13] Casino worker: timeout = -75462
+[12.08 15:27:13] Work worker: waiting for 7199 + 17 seconds
+[12.08 15:27:13] Casino worker: timeout = -75464
+[12.08 15:27:13] Work worker: waiting for 7199 + 76 seconds
+[12.08 15:27:13] Casino worker: timeout = -75460
+[12.08 15:27:13] Work worker: waiting for 7199 + 57 seconds
+[12.08 15:27:13] Casino result: 3 3 1
+[12.08 15:27:13] Casino result: 2 1 1
+[12.08 15:27:13] Casino worker: timeout = 7208
+[12.08 15:27:13] Casino worker: timeout = 7203
+[12.08 15:27:13] Casino worker: timeout = 7206
+[16.08 09:06:48] Daily bonus got!!!
+[16.08 09:06:48] Daily bonus got!!!
+[16.08 09:06:48] Daily bonus got!!!
+[16.08 09:06:48] Connected
+[16.08 09:06:48] Connected
+[16.08 09:06:48] Connected
+[16.08 09:06:49] Work worker: working
+[16.08 09:06:49] Work worker: working
+[16.08 09:06:49] Work worker: working
+[16.08 09:06:49] Casino worker: timeout = -315573
+[16.08 09:06:49] Work worker: waiting for 7199 + 83 seconds
+[16.08 09:06:49] Casino worker: timeout = -315569
+[16.08 09:06:49] Work worker: waiting for 7199 + 29 seconds
+[16.08 09:06:49] Casino worker: timeout = -315567
+[16.08 09:06:49] Work worker: waiting for 7199 + 109 seconds
+[16.08 09:06:49] Casino result: 1 2 2
+[16.08 09:06:49] Casino result: 2 1 2
+[16.08 09:06:49] Casino result: 2 2 3
+[16.08 09:06:49] Casino worker: timeout = 7208
+[16.08 09:06:49] Casino worker: timeout = 7208
+[16.08 09:06:49] Casino worker: timeout = 7204
+[19.08 09:12:38] Daily bonus got!!!
+[19.08 09:12:38] Daily bonus got!!!
+[19.08 09:12:38] Daily bonus got!!!
+[19.08 09:12:38] Connected
+[19.08 09:12:38] Connected
+[19.08 09:12:38] Work worker: working
+[19.08 09:12:38] Work worker: working
+[19.08 09:12:39] Casino worker: timeout = -252348
+[19.08 09:12:39] Work worker: waiting for 7207 + 55 seconds
+[19.08 09:12:39] Casino worker: timeout = -252352
+[19.08 09:12:39] Work worker: waiting for 7207 + 28 seconds
+[19.08 09:12:39] Casino worker: timeout = -252351
+[19.08 09:12:39] Work worker: waiting for 7207 + 55 seconds
+[19.08 09:12:39] Casino result: 5 1 3
+[19.08 09:12:39] Casino result: 1 1 5
+[19.08 09:12:39] Casino result: 3 2 1
+[19.08 09:12:39] Casino worker: timeout = 7203
+[19.08 09:12:39] Casino worker: timeout = 7209
+[19.08 09:12:39] Casino worker: timeout = 7205
+[27.08 09:11:32] Daily bonus got!!!
+[27.08 09:11:32] Connected
+[27.08 09:11:32] Daily bonus got!!!
+[27.08 09:11:32] Daily bonus got!!!
+[27.08 09:11:32] Connected
+[27.08 09:11:32] Work worker: working
+[27.08 09:11:32] Connected
+[27.08 09:11:32] Work worker: working
+[27.08 09:11:33] Work worker: working
+[27.08 09:11:33] Casino worker: timeout = -683916
+[27.08 09:11:33] Work worker: waiting for 7198 + 88 seconds
+[27.08 09:11:33] Casino worker: timeout = -683920
+[27.08 09:11:33] Work worker: waiting for 7198 + 118 seconds
+[27.08 09:11:33] Casino worker: timeout = -683921
+[27.08 09:11:33] Work worker: waiting for 7198 + 42 seconds
+[27.08 09:11:33] Casino result: 5 2 3
+[27.08 09:11:33] Casino result: 3 3 1
+[27.08 09:11:33] Casino worker: timeout = 7207
+[27.08 09:11:33] Casino result: 1 1 2
+[27.08 09:11:33] Casino worker: timeout = 7211
+[27.08 09:11:33] Casino worker: timeout = 7204
+[09.10 09:17:30] Disconnected
+[09.10 09:17:30] Disconnected
+[09.10 09:17:31] Disconnected
+[16.10 09:43:28] Disconnected
+[16.10 09:43:35] Disconnected
